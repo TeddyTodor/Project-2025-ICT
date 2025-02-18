@@ -30,12 +30,15 @@ body{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
+    padding: 5px;
     
 }
   
 a:hover {
     background-color: white;
     color: lightskyblue;
+    border-radius: 10px;
+    padding : 5px;
 }
 h1 {
     color: white;
@@ -59,8 +62,9 @@ p{
 .dropbtn {
     background-color: lightskyblue;
     color: white;
-    padding: 0px;
+    padding: 5px;
     font-size: 20px;
+    border-radius: 10px;
     border: none;
 }
 .dropdown {
@@ -71,8 +75,9 @@ p{
     display: none;
     position: absolute;
     background-color: lightskyblue;
-    min-width: 115px;
+    min-width: 125px;
     z-index: 1;
+    border-radius: 15px;
 }
 .dropdown-content a{
     color: white;
