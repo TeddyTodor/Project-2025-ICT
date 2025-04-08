@@ -41,20 +41,24 @@ a:hover {
     padding : 5px;
 }
 h1 {
-    color: white;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 35px;
 }
 h2 {
-    color: white;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 35px;
 }
 h3 {
-    color: white;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 35px;
 }
 p{
-    color: white;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 35px;
 }
 .center {
     text-align: center;
