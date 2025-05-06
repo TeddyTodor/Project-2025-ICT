@@ -48,20 +48,20 @@ h1 {
 h2 {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 h3 {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 p{
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .center {
     text-align: center;
